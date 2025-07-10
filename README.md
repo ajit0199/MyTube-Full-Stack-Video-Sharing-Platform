@@ -135,15 +135,6 @@ GOOGLE_CLIENT_SECRET=your_google_client_secret
 node server.js
 ```
 
----
-
-
-
-## 📚 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ## 🤝 Credits
 
